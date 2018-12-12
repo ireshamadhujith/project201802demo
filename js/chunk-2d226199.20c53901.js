@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d226199"],{e6e7:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h2",[e._v("Loans List")])])}],c=(t("cadf"),t("551c"),t("097d"),{name:"Loans"}),l=c,o=t("2877"),u=Object(o["a"])(l,s,a,!1,null,null,null);u.options.__file="loans.vue";n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d226199.20c53901.js.map

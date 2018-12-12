@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c73fd"],{"508d":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},i=[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("h2",[n._v("Communications List")])])}],o=(t("cadf"),t("551c"),t("097d"),{name:"Communication"}),u=o,a=t("2877"),s=Object(a["a"])(u,c,i,!1,null,null,null);s.options.__file="communication.vue";e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0c73fd.c3b70d2b.js.map

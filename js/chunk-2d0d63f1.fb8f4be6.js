@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d63f1"],{7277:function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",{staticClass:"animated fadeIn"})},s=[],d={name:"dashboard"},i=d,l=e("2877"),o=Object(l["a"])(i,t,s,!1,null,null,null);o.options.__file="Dashboard.vue";a["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0d63f1.fb8f4be6.js.map

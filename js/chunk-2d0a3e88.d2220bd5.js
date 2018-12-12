@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3e88"],{"03d3":function(e,n,r){"use strict";r.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},t=[function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",[r("h2",[e._v("User Groups List")])])}],u={name:"UserGroups"},o=u,c=r("2877"),i=Object(c["a"])(o,s,t,!1,null,null,null);i.options.__file="userGroups.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0a3e88.d2220bd5.js.map
